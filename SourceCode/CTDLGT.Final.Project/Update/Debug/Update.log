@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Michael Le\source\repos\CTDLGT.Final.Project\Update\postfix.h(23,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael Le\source\repos\CTDLGT.Final.Project\Update\postfix.h(49,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael Le\source\repos\CTDLGT.Final.Project\Update\Source.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael Le\source\repos\CTDLGT.Final.Project\Update\Source.cpp(48,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael Le\source\repos\CTDLGT.Final.Project\Update\Source.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael Le\source\repos\CTDLGT.Final.Project\Update\Source.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael Le\source\repos\CTDLGT.Final.Project\Update\Source.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael Le\source\repos\CTDLGT.Final.Project\Update\Source.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael Le\source\repos\CTDLGT.Final.Project\Update\stack.h(77): warning C4715: 'stack::top': not all control paths return a value
+C:\Users\Michael Le\source\repos\CTDLGT.Final.Project\Update\postfix.h(36): warning C4715: 'postfix::rank': not all control paths return a value
+  Update.vcxproj -> C:\Users\Michael Le\source\repos\CTDLGT.Final.Project\Debug\Update.exe

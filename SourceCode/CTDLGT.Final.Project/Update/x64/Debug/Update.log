@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\CTDLGT.Final.Project\Update\stack.h(77): warning C4715: 'stack::top': not all control paths return a value
+E:\CTDLGT.Final.Project\Update\postfix.h(36): warning C4715: 'postfix::rank': not all control paths return a value
+  Update.vcxproj -> E:\CTDLGT.Final.Project\x64\Debug\Update.exe
